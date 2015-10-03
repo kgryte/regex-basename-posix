@@ -1,6 +1,6 @@
 {
   "name": "regex-basename-posix",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Regular expression to capture the last part of a POSIX path.",
   "author": {
     "name": "Athan Reines",
